@@ -443,7 +443,7 @@ section {
 
 @media (max-width: 768px) {
   #btn {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     padding: 0.5rem;
   }
   #text {
@@ -457,7 +457,7 @@ section {
     padding: 0.5rem;
   }
   #text {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
 }
 @media (max-width: 450px) {
@@ -466,6 +466,6 @@ section {
     padding: 0.5rem;
   }
   #text {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 }
