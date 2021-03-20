@@ -123,9 +123,9 @@ function draw() {
     noLoop(); //stop drawin of canvas repeatedly
 
     if (result === "tie") {
-      message.innerText = "TIE GAME";
+      message.innerText = "Tie 🙄";
     } else {
-      message.innerText = `... AND THE WINNER IS: ${result} !!!`;
+      message.innerHTML = `Oops...The ${result} wins 😅<br>break AI's Ego by your talent`;
     }
 
     showMessage();
